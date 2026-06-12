@@ -7,3 +7,7 @@ sid name            cid cname sid
                     3    SQL   2
 
 here sid of table 1 is referenced in table 2. we can see that ram has enrolled in two courses and anu has enrolled in one
+
+
+
+once we use commit, it will be permanently saved, Rollback also won't work. Update will only update but not saved permanently 
