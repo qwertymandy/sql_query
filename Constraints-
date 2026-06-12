@@ -1,0 +1,7 @@
+Constraints-
+Not Null, Unique i.e Primary Key
+Foreign key- Not unique, references to another table
+sid name            cid cname sid
+1   RAM             1   cloud  1
+2   ANU             2   cyber  1
+                    3    SQL   2
