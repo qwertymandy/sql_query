@@ -1,0 +1,10 @@
+SQL
+
+user-> SQL-> DBMS-> DB 
+you ->   waiter  -> Kitchen
+
+DDL= data definition language-> CREATE, ALTER, DROP, TRUNCATE, RENAME
+DML= Data manipulation language-> INSERT, UPDATE, DELETE
+DQL= Data query language-> SELECT
+DCL= Data control language -> GRANT, REVOKE
+TCL= Transaction control language-> COMMIT, ROLLBACK, SAVEPOINT
