@@ -5,3 +5,5 @@ sid name            cid cname sid
 1   RAM             1   cloud  1
 2   ANU             2   cyber  1
                     3    SQL   2
+
+here sid of table 1 is referenced in table 2. we can see that ram has enrolled in two courses and anu has enrolled in one
